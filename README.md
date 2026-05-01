@@ -20,12 +20,6 @@ then install the repository requirements:
 pip install -r requirements.txt
 ```
 
-The legacy CarRacing/Gym code has extra optional dependencies:
-
-```bash
-pip install -r requirements-carracing.txt
-```
-
 ## SurgWMBench support
 
 The local SurgWMBench dataset root used on this machine is:

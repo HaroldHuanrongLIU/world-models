@@ -1,6 +1,0 @@
-# Optional legacy dependencies for the original CarRacing/Gym scripts.
-#
-# These are not required for SurgWMBench data loading or tests.
-cma
-gym[all]
-box2d
