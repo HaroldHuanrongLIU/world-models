@@ -1,6 +1,10 @@
-cma
-argparse
-gym[all]
-box2d
+# Core dependencies for SurgWMBench data loading, metrics, tools, and tests.
+#
+# Install the correct PyTorch build for your CUDA/CPU environment from:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+pillow
 tqdm
 numpy
+pytest
